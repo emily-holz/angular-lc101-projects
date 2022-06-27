@@ -1,6 +1,9 @@
 .movies {
     color: blueviolet;
     font-size: 1.3vw;
+    border-style: solid;
+    border-color: black;
+    border-width: 8px;
 }
 
 h3 {

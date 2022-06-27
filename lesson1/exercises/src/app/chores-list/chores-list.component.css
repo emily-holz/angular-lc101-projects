@@ -3,6 +3,9 @@
     font-size: 2.5vw;
     font-weight: bolder;
     color:aquamarine;
+    border-style: solid;
+    border-color: black;
+    border-width: 8px;
 }
 
 h3 {
