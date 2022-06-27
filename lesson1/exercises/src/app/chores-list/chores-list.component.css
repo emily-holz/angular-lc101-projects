@@ -1,0 +1,14 @@
+.chores {
+    font-family: "Courier New", Helvetica;
+    font-size: 2.5vw;
+    font-weight: bolder;
+    color:aquamarine;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+ul {
+    font-style: italic;
+}
